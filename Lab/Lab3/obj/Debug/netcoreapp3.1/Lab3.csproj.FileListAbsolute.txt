@@ -1,0 +1,42 @@
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.AssemblyReference.cache
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\PizdaDrozda\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\PizdaDrozda\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\Labs 3 semak\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.AssemblyReference.cache
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\Labs 3 semak\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\Labs 3 semak\Lab\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.AssemblyReference.cache
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+M:\Works\Labs 3 semak\Lab\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
